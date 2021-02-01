@@ -1,11 +1,12 @@
+/* 写真のサイズを設定 */
 img {
   height: 100px;
 }
-
+/* 名前の色を設定 */
 #name {
   color: blue;
 }
-
+/* 結果の色を設定 */
 #result {
   color: green;
 }
